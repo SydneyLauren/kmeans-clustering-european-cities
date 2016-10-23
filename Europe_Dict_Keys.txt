@@ -1,0 +1,508 @@
+Aachen|Aachen, Germany|Aachen, Germany
+Aalborg|Aalborg, Denmark|Aalborg, Denmark
+Aarhus|Aarhus, Denmark|Aarhus, Denmark
+Aberdeen|Aberdeen England, United Kingdom|Aberdeen, England
+Abovyan|noname|Abovyan, Yerevan
+Adana|noname|Adana, Turkey
+Aldershot|Aldershot England, United Kingdom|Aldershot, England
+Alicante|noname|Alicante, Spain
+Almada|noname|Almada, Portugal
+Almeria|noname|Almeria, Spain
+Amsterdam|Amsterdam, Netherlands|Amsterdam, Netherlands
+Ancona|noname|Ancona, Italy
+Andorra_La_Vella|Andorra la vella, Andorra|Andorra la Vella, Andorra
+Ankara|Ankara, Turkey|Ankara, Turkey
+Antalya|noname|Antalya, Turkey
+Antwerp|Antwerp, Belgium|Antwerp, Belgium
+Arad_(Romania)|noname|Arad, Romania
+Ararat_Marz|noname|Ararat, Armenia
+Arezzo|noname|Arezzo, Italy
+Athens|Athens, Greece|Athens, Greece
+Augsburg|noname|Augsburg, Germany
+Aylesbury|noname|Aylesbury, England
+Bobruisk|noname|Bobruisk, Belarus
+Bangor_(Northern_Ireland)|noname|Bangor, Northern Ireland
+Banja_Luka|noname|Banja Luka, Bosnia and Herzegovina
+Banska_Bystrica|noname|Banska Bystrica, Slovakia
+Barcelona|Barcelona, Spain|Barcelona, Spain
+Bari|noname|Bari, Italy
+Barnaul|noname|Barnaul, Russia
+Barnsley|Barnsley England, United Kingdom|Barnsley, England
+Barry|noname|Barry, Wales
+Basel|noname|Basel, Switzerland
+Basildon|Basildon England, United Kingdom|Basildon, England
+Basingstoke|noname|Basingstoke, England
+Bath|Bath England, United Kingdom|Bath, England
+Bedford|Bedford England, United Kingdom|Bedford, England
+Belfast|Belfast England, United Kingdom|Belfast, England
+Belgrade|Belgrade, Serbia|Belgrade, Serbia
+Benalmadena|Benalmadena, Spain|Benalmadena, Spain
+Bender|noname|Bender, Moldova
+Benidorm|noname|Benidorm, Spain
+Bergen|Bergen, Norway|Bergen, Norway
+Berlin|Berlin, Germany|Berlin, Germany
+Bern|noname|Bern, Switzerland
+Bilbao|Bilbao, Spain|Bilbao, Spain
+Birkenhead|noname|Birkenhead, England
+Birmingham_(England)|Birmingham England, United Kingdom|Birmingham, England
+Bitola|noname|Bitola, Macedonia
+Blackburn|noname|Blackburn, England
+Blackpool|Blackpool England, United Kingdom|Blackpool, England
+Bognor_Regis|noname|Bognor Regis, England
+Bologna|Bologna, Italy|Bologna, Italy
+Bolton_(England)|noname|Bolton, England
+Bonn|Bonn, Germany|Bonn, Germany
+Bordeaux|Bordeaux, France|Bordeaux, France
+Bournemouth|Bournemouth England, United Kingdom|Bournemouth, England
+Bradford|noname|Bradford, England
+Braga|Braga, Portugal|Braga, Portugal
+Bratislava|Bratislava, Slovakia|Bratislava, Slovakia
+Bremen|Bremen, Germany|Bremen, Germany
+Brentwood_(England)|noname|Brentwood, England
+Brest_(Belarus)|noname|Brest, Belarus
+Brighton_(England)|Brighton England, United Kingdom|Brighton, England
+Bristol|noname|Bristol, England
+Brno|Brno, Czech Republic|Brno, Czeck Republic
+Bruges|Bruges, Belgium|Bruges, Belgium
+Brunswick_(Germany)|noname|Brunswick, Germany
+Brussels|Brussels, Belgium|Brussels, Belgium
+Bucharest|Bucharest, Romania|Bucharest, Romania
+Budapest|Budapest, Hungary|Budapest, Hungary
+Burgas|noname|Burgas, Bulgaria
+Burgos_(city)|noname|Burgos, Spain
+Burnley|noname|Burnley, England
+Bursa|Bursa, Turkey|Bursa, Turkey
+Burton_upon_Trent|noname|Burton upon Trent, England
+Bury|noname|Bury, England
+Cadiz|noname|Cadiz, Spain
+Cagliari|Cagliari, Italy|Caligari, Italy
+Calais|noname|Calais, France
+Cambridge_(England)|Cambridge England, United Kingdom|Cambridge, England
+Canillo|noname|Canillo, Andorra
+Cannes|Cannes, France|Cannes, France
+Cardiff|Cardiff, Wales|Cardiff, Wales
+Carlisle|noname|Carlisle, England
+Cartagena_(Spain)|noname|Cartagena, Spain
+Castelln|noname|Castellon, Spain
+Celje|noname|Celje, Slovenia
+Ceske_Budejovice|Ceske Budejovice, Czech Republic|Ceske Budejovice, Czech Republic
+Chatham|Chatham England, United Kingdom|Chatham, England
+Chelmsford_(England)|noname|Chelmsford, England
+Cheltenham|Cheltenham England, United Kingdom|Cheltenham, England
+Chelyabinsk|noname|Chelyabinsk, Russia
+Chemnitz|noname|Chemnitz, Germany
+Chester|Chester England, United Kingdom|Chester, England
+Chesterfield|noname|Chesterfield, England
+Chisinau|Chisinau, Moldova|Chisinau, Moldova
+Christchurch_(England)|noname|Christchurch, England
+Cluj_Napoca|Cluj-Napoca, Romania|Cluj-Napoca, Romania
+Coimbra|noname|Coimbra, Portugal
+Colchester_(Essex)|noname|Colchester, England
+Colmar|noname|Colmar, France
+Cologne|Cologne, Germany England, United Kingdom|Cologne, Germany
+Copenhagen|Copenhagen|Copenhagen, Denmark
+Cordoba_(city,_Spain)|Cordoba, Spain|Cordoba, Spain
+Cork|Cork, Ireland|Cork, Ireland
+Coventry|Coventry England, United Kingdom|Coventry, England
+Craiova|noname|Craiova, Romania
+Crawley|noname|Crawley, England
+Crewe|noname|Crewe, England
+Crosby|noname|Crosby, England
+Czestochowa|noname|Czestochowa, Poland
+Darlington|noname|Darlington, England
+Daugavpils|noname|Daugavpils, Latvia
+Debrecen|noname|Debrecen, Hungary
+Derby|noname|Derby, England
+Diyarbakr|noname|Diyarbakir, Turkey
+Dnipro|noname|Dnipro, Ukraine
+Doncaster|noname|Doncaster, England
+Donetsk|noname|Donetsk, Ukraine
+Dortmund|Dortmund, Germany|Dortmund, Germany
+Drammen|noname|Drammen, Norway
+Dresden|Dresden, Germany|Dresden, Germany
+Dublin|Dublin, Ireland|Dublin, Ireland
+Dubrovnik|Dubrovnik, Croatia|Dubrovnik, Croatia
+Dudley_(England)|noname|Dudley, England
+Duisburg|noname|Duisburg, Germany
+Dundee|noname|Dundee, Scotland
+Dunfermline|noname|Dunfermline, Scotland
+Dunkirk|noname|Dunkirk, France
+Durres|noname|Durres, Albania
+Dusseldorf|Dusseldorf, Germany|Dusseldorf, Germany
+Eastbourne|noname|Eastbourne, England
+Eastleigh|noname|Eastleigh, England
+Edinburgh|Edinburgh Scotland, United Kingdom|Edinburgh Scotland
+El_Puerto_de_Santa_Maria|noname|El Puerto de Santa Maria, Spain
+Elche|noname|Elche, Spain
+Encamp|noname|Encamp, Andorra
+Erfurt|noname|Erfurt, Germany
+Esbjerg|Esbjerg, Denmark|Esbjerg, Denmark
+Espoo|noname|Espoo, Finland
+Essen|noname|Essen, Germany
+Estepona|noname|Estepona, Spain
+Exeter|noname|Exeter, England
+Falkirk|Falkirk England, United Kingdom|Falkirk, Scotland
+Farnborough|Farnborough England, United Kingdom|Farnborough, England
+Fier|noname|Fier, Albania
+Florence|Florence, Italy|Florence, Italy
+Frankfurt_am_Main|Frankfurt am Main, Germany|Frankfurt am Main, Germany
+Fredrikstad|noname|Fredrikstad, Norway
+Freiburg_im_Breisgau|Freiburg im Breisgau, Germany|Freiburg im Breisgau, Germany
+Fuengirola|noname|Fuengirola, Spain
+Funchal|Funchal, Portugal|Funchal, Portugal
+Galway|Galway, Ireland|Galway, Ireland
+Gateshead|noname|Gateshead, England
+Gaziantep|noname|Gaziantep, Turkey
+Gdynia|Gdynia, Poland|Gdynia, Poland
+Geneva|Geneva, Switzerland|Geneva, Switzerland
+Genoa|Genoa, Italy|Genoa, Italy
+Gillingham_(Kent)|noname|Gillingham, England
+Glasgow|Glasgow England, United Kingdom|Glasgow, Scotland
+Gloucester_(England)|Gloucester England, United Kingdom|Gloucester, England
+Gomel|noname|Gomel, Belarus
+Gosport|noname|Gosport, England
+Gothenburg|Gothenburg, Sweden|Gothenburg, Sweden
+Granada_(Spain)|Granada, Spain|Granada, Spain
+Gravesend|noname|Gravesend, England
+Graz|Graz, Austria|Graz, Austria
+Grenoble|noname|Grenoble, France
+Grimsby|noname|Grimsby, England
+Grosseto|noname|Grosseto, Italy
+Guildford|Guildford, England|Guildford, England
+Gyumri|noname|Gyumri, Armenia
+Halifax_(England)|noname|Halifax, England
+Halle|noname|Halle, Germany
+Hamburg|Hamburg, Germany|Hamburg, Germany
+Hamilton_(Scotland)|Hamilton England, United Kingdom|Hamilton, Scotland
+Hanover|noname|Hanover, Germany
+Harrogate|noname|Harrogate, England
+Hartlepool|noname|Hartlepool, England
+Hastings_(England)|noname|Hastings, England
+Heidelberg|Heidelberg, Germany|Heidelberg, Germany
+Helsinki|Helsinki, Finland|Helsinki, Finland
+Hemel_Hempstead|Hemel Hempstead England, United Kingdom|Hemel Hempstead, England
+Hereford|noname|Hereford, England
+High_Wycombe|noname|High Wycombe, England
+Horsens|Horsens, Denmark|Horsens, Denmark
+noname|Hove England, United Kingdom|Hove, England
+Hradec_Kralove|noname|Hradec_Kralove, Czech Republic
+Hrodna|noname|Hrodna, Belarus
+Huddersfield|noname|Huddersfield, England
+Iasi|Iasi, Romania|Iasi, Romania
+Innsbruck|Innsbruck, Austria|Innsbruck, Austria
+Ipswich_(England)|noname|Ipswich, England
+Heraklion|noname|Heraklion, Greece
+Irkutsk|Irkutsk, Russian Federation|Irkutsk, Russia
+Istanbul|noname|Istanbul, Turkey
+Izhevsk|noname|Izhevsk, Russia
+Izmir|noname|Izmir, Turkey
+Jaen_(Spain)|noname|Jaen, Spain
+Jelgava|noname|Jelgava, Latvia
+Jena|noname|Jena, Germany
+Jerez_de_la_Frontera|Jerez de la Frontera, Spain|Jerez de la Frontera, Spain
+Jrmala|noname|Jurmala, Latvia
+Kapan|noname|Kapan, Armenia
+Katowice|noname|Katowice, Poland
+Kaunas|noname|Kaunas, Lithuania
+Kayseri|noname|Kayseri, Turkey
+Kazan|Kazan, Russian Federation|Kazan, Russia
+Keighley|noname|Keighley, England
+Kettering|noname|Kettering, England
+Kharkiv|Kharkiv, Ukraine|Kharkiv, Ukraine
+Kiev|noname|Kiev, Ukraine
+Kingston_upon_Hull|noname|Kingston upon Hull, England
+Kirkcaldy|noname|Kirkcaldy, Scotland
+Klaipeda|noname|Klaipeda, Lithuania
+Kolding|Kolding, Denmark|Kolding, Denmark
+Konya|noname|Konya, Turkey
+Kpavogur|noname|Kopavogur, Iceland
+Kosice|noname|Kosice, Slovakia
+Kragujevac|noname|Kragujevac, Serbia
+Krakow|Krakow, Poland|Krakow, Poland
+Kranj|noname|Kranj, Slovenia
+Krasnodar|noname|Krasnodar, Russia
+Krasnoyarsk|noname|Krasnoyarsk, Russia
+Kumanovo|noname|Kumanovo, Macedonia
+La_Lnea|noname|La Linea de la Concepcion, Spain
+La_Rochelle|La Rochelle, France|La Rochelle, France
+Lahti|noname|Lahti, Finland
+Larisa|noname|Larissa, Greece
+Las_Palmas_de_Gran_Canaria|Las Palmas de Gran Canaria, Spain|Las Palmas de Gran Canaria, Spain
+Lausanne|noname|Lausanne, Switzerland
+Le_Havre|noname|Le Havre, France
+Le_Mans|noname|Le Mans, France
+Leeds|Leeds England, United Kingdom|Leeds, England
+Leicester|noname|Leicester, England
+Leipzig|Leipzig, Germany|Leipzig, Germany
+Leiria|noname|Leiria, Portugal
+Len_(Spain)|noname|Leon, Spain
+Liberec|noname|Liberec, Czech Republic
+Liepaja|noname|Liepaja, Latvia
+Lille|Lille, France|Lille, France
+Limassol|Limassol, Cyprus|Limassol, Cyprus
+Limerick|Limerick, Ireland|Limerick, Ireland
+Lincoln|noname|Lincoln, England
+Linz|noname|Linz, Austria
+Lisbon|Lisbon, Portugal|Lisbon, Portugal
+Liverpool|Liverpool England, United Kingdom|Liverpool, England
+Livingston_(Scotland)|noname|Livingston, Scotland
+Livorno|noname|Livorno, Italy
+Ljubljana|noname|Ljubljana, Slovenia
+Lodz|Lodz, Poland|Lodz, Poland
+London|London England United Kingdom|London England United Kingdom
+Lorca|noname|Lorca, Spain
+Loughborough|noname|Loughborough, England
+Lowestoft|noname|Lowestoft, England
+Lucca|Lucca, Italy|Lucca, Italy
+Ludwigsburg|noname|Ludwigsburg, Germany
+Ludwigshafen_(Rhein)|noname|Ludwigshafen, Germany
+Lugansk|noname|Lugansk, Ukraine
+Lund|Lund, Sweden|Lund, Sweden
+Luton|noname|Luton, England
+Luxembourg|noname|Luxembourg
+Luzern|Luzern, Switzerland|Luzern, Switzerland
+Lviv|Lviv, Ukraine|Lviv, Ukraine
+Lyon|Lyon, France|Lyon, France
+Maastricht|Maastricht, Netherlands|Maastricht, Netherlands
+Madrid|Madrid, Spain|Madrid, Spain
+Mahilio|noname|Mahiliou, Belarus
+Maidenhead|noname|Maidenhead, England
+Maidstone|noname|Maidstone, England
+Mainz|Mainz, Germany|Mainz, Germany
+Malaga|Malaga, Spain|Malaga, Spain
+Malmo|Malmo, Sweden|Malmo, Sweden
+Manchester|Manchester England, United Kingdom|Manchester, England
+Mansfield_(England)|noname|Mansfied, England
+Marbella|Marbella, Spain|Marbella, Spain
+Margate|noname|Margate, England
+Maribor|noname|Maribor, Slovenia
+Marseille|Marseille, France|Marseille, France
+Massa|noname|Massa, Italy
+Melilla|noname|Melilla, Spain
+Middlesbrough|Middlesbrough England, United Kingdom|Middlesbrough, England
+Mijas|noname|Mijas, Spain
+Milan|Milan, Italy|Milan, Italy
+Milton_Keynes|Milton Keynes England, United Kingdom|Milton Keynes, England
+Minsk|Minsk, Belarus|Minsk, Belarus
+Miskolc|noname|Miskolc, Hungary
+Modena|Modena, Italy|Modena, Italy
+Monaco|noname|Monaco
+Monte_Carlo|Monte-Carlo, Monaco|Monte-Carlo, Monaco
+Montpellier|Montpellier, France|Montpellier, France
+Moscow|Moscow, Russian Federation|Moscow, Russia
+Mostar|noname|Mostar, Bosnia and Herzegovina
+Mulhouse|Mulhouse, France|Mulhouse, France
+Munich|Munich, Germany|Munich, Germany
+Murcia_(city)|noname|Murcia, Spain
+Mykolayiv|noname|Mykolayiv, Ukraine
+Nancy|noname|Nancy, France
+Nantes|noname|Nantes, France
+Naples|Naples, Italy|Naples, Italy
+Narva|noname|Narva, Estonia
+Neath|Neath, Wales|Neath, Wales
+Newcastle_upon_Tyne|Newcastle-upon-Tyne England, United Kingdom|Newcastle upon Tyne, England
+Newport_(Monmouthshire)|noname|Newport, Wales
+Nice|Nice, France|Nice, France
+Nicosia|Nicosia, Cyprus|Nicosia, Cyprus
+Niksic|noname|Niksic, Montenegro
+Nis|noname|Nis, Serbia
+Nitra|noname|Nitra, Slovakia
+Nizhniy_Novgorod|noname|Nizhniy Novgorod, Russia
+Northampton_(England)|Northampton, England|Northampton, England
+Norwich|Norwich England, United Kingdom|Norwich, England
+Nottingham|Nottingham England, United Kingdom|Nottingham, England
+Novi_Pazar|noname|Novi Pazar, Serbia
+Novi_Sad|noname|Novi Sad, Serbia
+Novosibirsk|Novosibirsk, Russian Federation|Novosibirsk, Russia
+Nuneaton|Nuneaton England, United Kingdom|Nuneaton, England
+Oberhausen|noname|Oberhausen, Germany
+Odense|Odense, Denmark|Odense, Denmark
+Odessa|noname|Odessa, Ukraine
+Oldham|noname|Oldham, England
+Olomouc|Olomouc, Czech Republic|Olomouc, Czech Republic
+Omsk|noname|Omsk, Russia
+Ordino|noname|Ordino, Andorra
+Osijek|noname|Osijek, Croatia
+Oslo|Oslo, Norway|Oslo, Norway
+Ostrava|noname|Ostrava, Czech Republic
+Oulu|noname|Oulu, Finland
+Oxford|Oxford, England|Oxford, England
+Padua|Padua, Italy|Padua, Italy
+Paisley|noname|Paisley, Scotland
+Palermo|Palermo, Italy|Palermo, Italy
+Palma_de_Mallorca|Palma de Mallorca, Spain|Palma de Mallorca, Spain
+Pamplona|noname|Pamplona, Spain
+Paris|Paris, France|Paris, France
+Parma|Parma, Italy|Parma, Italy
+Patra|noname|Patra, Greece
+Pecs|noname|Pecs, Hungary
+Perm|noname|Perm, Russia
+Perugia|Perugia, Italy|Perugia, Italy
+Peterborough|noname|Peterborough, England
+Pilsen|noname|Pilsen, Czech Republic
+Pinsk|noname|Pinsk, Belarus
+Piraeus|noname|Piraeus, Greece
+Pisa|noname|Pisa, Italy
+Pistoia|noname|Pistoia, Greece
+Pleven|noname|Plovdiv, Bulgaria
+Plovdiv|noname|Plovdiv, Bulgaria
+Plymouth_(England)|noname|Plymouth, England
+Podgorica|noname|Podgorica, Montenegro
+Poitiers|noname|Poitiers, France
+Poole|noname|Poole, England
+Porto|Porto, Portugal|Porto, Portugal
+Portsmouth|noname|Portsmouth, England
+Poznan|Poznan, Poland|Poznan, Poland
+Prague|Prague, Czech Republic|Prague, Czech Republic
+Prato|noname|Prato, Italy
+Preston|noname|Preston, England
+Prilep|noname|Prilep, Macedonia
+Pristina|noname|Pristina, Kosovo
+Pula|Pula, Croatia|Pula, Croatia
+Randers|noname|Randers, Denmark
+Ravenna|Ravenna, Italy|Ravenna, Italy
+Reading_(England)|noname|Reading, England
+Reims|noname|Reims, France
+Reutlingen|noname|Reutlingen, Germany
+Reykjavik|Reykjavik, Iceland|Reykjavik, Iceland
+Riga|Riga, Latvia|Riga, Latvia
+Rijeka|noname|Rijeka, Croatia
+Rochdale|noname|Rochdale, England
+Rochester_(England)|noname|Rochester, England
+Rome|Rome, Italy|Rome, Italy
+Roquetas_de_Mar|noname|Roquetas de Mar, Spain
+Rostov-on-Don|noname|Rostov-on-Don, Russia
+Rotherham|Rotherham England, United Kingdom|Rotherham, England
+Rotterdam|Rotterdam, Netherlands|Rotterdam, Netherlands
+Leamington_Spa|noname|Leamington Spa, England
+Tunbridge_Wells|noname|Tunbridge Wells, England
+Rugby_(England)|noname|Rugby, England
+Runcorn|noname|Runcorn, England
+Ruse|noname|Ruse, Bulgaria
+Saint_Petersburg|Saint Petersburg, Russia|Saint Petersburg, Russia
+Saint_Denis|noname|Saint Denis, France
+Saint-Paul_de_Vence|noname|Saint-Paul de Vence, France
+Salamanca|Salamanca, Spain|Salamanca, Spain
+Sale_(England)|noname|Sale, England
+Salford|noname|Salford, England
+Salzburg|Salzburg, Austria|Salzburg, Austria
+Samara|Samara, Russian Federation|Samara, Russia
+San_Marino|noname|San Marino
+Saint_Gallen|noname|Saint_Gallen, Switzerland
+Santander|Santander, Spain|Santander, Spain
+Sarajevo|noname|Sarajevo, Bosnia and Herzegovina
+Saratov|noname|Saratov, Russia
+Sassari|noname|Sassari, Italy
+Scandicci|noname|Scandicci, Italy
+Scarborough|noname|Scarborough, England
+Segovia|Segovia, Spain|Segovia, Spain
+Sevastopol|noname|Sevastopol, Ukraine
+Seville|Seville, Spain|Seville, Spain
+Sheffield|Sheffield England, United Kingdom|Sheffield, England
+Shkodra|noname|Shkodra, Albania
+Shrewsbury_(Shropshire)|noname|Shrewsbury, England
+Siauliai|noname|Siauliai, Lithuania
+Siena|Siena, Italy|Siena, Italy
+Skopje|Skopje, Macedonia|Skopje, Macedonia
+Slavonski_Brod|noname|Slavonski Brod, Croatia
+Slough|Slough England, United Kingdom|Slough, England
+Sofia|Sofia, Bulgaria|Sofia, Bulgaria
+Solihull|noname|Solihull, England
+Southampton|Southampton, England|Southampton, England
+Southend|noname|Southend-on-Sea, England
+Southport|noname|Southport, England
+Split|Split, Croatia|Split, Croatia
+St_Albans|noname|St Albans, England
+St_Helens_(England)|noname|St Helens, England
+Stara_Zagora|noname|Stara Zagora, Bulgaria
+Stavanger|Stavanger, Norway|Stavanger, Norway
+Stevenage|noname|Stevenage, England
+Stockholm|Stockholm, Sweden|Stockholm, Sweden
+Stockport|noname|Stockport, England
+Stockton-on-Tees|noname|Stockton-on-Tees, England
+Stoke_on_Trent|Stoke-on-Trent England, United Kingdom|Stoke-on-Trent, England
+Strasbourg|Strasbourg, France|Strasbourg, France
+Stuttgart|Stuttgart, Germany|Stuttgart, Germany
+Subotica|noname|Subotica, Serbia
+Sunderland|noname|Sunderland, England
+Swansea|Swansea England, United Kingdom|Swansea, England
+Swindon|noname|Swindon, England
+Szeged|noname|Szeged, Hungary
+Tallinn|Tallinn, Estonia|Tallinn, Estonia
+Tampere|noname|Tampere, Finland
+Tamworth_(England)|noname|Tamworth, England
+Tartu|noname|Tartu, Estonia
+Taunton_(England)|noname|Taunton, England
+noname|Telde, Spain|Telde, Spain
+Telford|noname|Telford, England
+Terni|noname|Terni, Italy
+Tetovo|noname|Tetovo, Macedonia
+The_Hague|The Hague, Netherlands|The Hague, Netherlands
+Thessaloniki|noname|Thessaloniki, Greece
+Timisoara|Timisoara, Romania|Timisoara, Romania
+Tirane|Tirane, Albania|Tirane, Albania
+Tiraspol|noname|Tiraspol, Moldova
+Torquay|Torquay England, United Kingdom|Torquay, England
+Torremolinos|Torremolinos, Spain|Torremolinos, Spain
+Torrevieja|noname|Torrevieja, Spain
+Toulouse|Toulouse, France|Toulouse, France
+Trondheim|noname|Trondheim, Norway
+Turin|Turin|Turin, Italy
+Turku|noname|Turku, Finland
+Tuzla|noname|Tuzla, Bosnia and Herzegovina
+Ufa|noname|Ufa, Russia
+Ulm|Ulm, Germany|Ulm, Germany
+Ulyanovsk|noname|Ulyanovsk, Russia
+Utrecht|Utrecht, Netherlands|Utrecht, Netherlands
+Vaduz|noname|Vaduz, Liechtenstein
+Valencia|Valencia, Spain|Valencia, Spain
+Valladolid_(Spain)|noname|Valladolid, Spain
+Vanadzor|noname|Vanadzor, Armenia
+Varna|noname|Varna, Bulgaria
+Vatican_City|Vatican City|Vatican City
+Liepaja|noname|Liepaja, Latvia
+Venice|Venice, Italy|Venice, Italy
+Verona|Verona, Italy|Verona, Italy
+Viareggio|Viareggio, Italy|Viareggio, Italy
+Vicenza|Vicenza, Italy|Vicenza, Italy
+Vienna|Vienna, Austria|Vienna, Austria
+Vila_Nova_de_Gaia|Vila Nova de Gaia, Portugal|Vila Nova de Gaia, Portugal
+Vilnius|noname|Vilnius, Lithuania
+Vitebsk|noname|Vitebsk, Belarus
+Vladivostok|noname|Vladivostok, Russia
+Vlore|noname|Vlore, Albania
+Volgograd|Volgograd, Russian Federation|Volgograd, Russia
+Voronezh|noname|Voronezh, Russia
+Wakefield_(England)|Wakefield, England|Wakefield, England
+Walsall|Walsall England, United Kingdom|Walsall, England
+Warrington|noname|Warrington, England
+Warsaw|Warsaw, Poland|Warsaw, Poland
+Washington_(England)|Washington England, United Kingdom|Washington, United Kingdom
+Watford|Watford England, United Kingdom|Watford, England
+Weimar|Weimar, Germany|Weimar, Germany
+West_Bromwich|noname|West Bromwich, England
+Weston-super-Mare|noname|Weston-super-Mare, England
+Weymouth|Weymouth, England|Weymouth, England
+Widnes|noname|Widnes, England
+Wiesbaden|Wiesbaden, Germany|Wiesbaden, Germany
+Wigan|noname|Wigan, England
+Winterthur|noname|Winterthur, Switzerland
+Woking|noname|Woking, England
+Wolfsburg|noname|Wolfsburg, Germany
+Wolverhampton|noname|Wolverhampton, England
+Worcester_(England)|noname|Worcester, England
+Worthing|noname|Worthing, England
+Wrexham|noname|Wrexham, Wales
+Wroclaw|Wroclaw, Poland|Wroclaw, Poland
+Yaroslavl|Yaroslavl, Russian Federation|Yaroslavl, Russia
+Yekaterinburg|Yekaterinburg, Russian Federation|Yekaterinburg, Russia
+Yerevan|noname|Yerevan, Armenia
+York|York England, United Kingdom|York, England
+Zadar|noname|Zadar, Croatia
+Zagreb|Zagreb, Croatia|Zagreb, Croatia
+Zamora_(Spain)|noname|Zamora, Spain
+Zaporizhia|noname|Zaporizhia, Ukraine
+Zaragoza|Zaragoza, Spain|Zaragoza, Spain
+Zenica|noname|Zenica, Bosnia and Herzegovina
+Zilina|Zilina, Slovakia|Zilina, Slovakia
+Zurich|Zurich, Switzerland|Zurich, Switzerland
