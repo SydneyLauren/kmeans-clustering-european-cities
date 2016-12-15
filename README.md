@@ -2,9 +2,9 @@
 
 ![](city_clusters.png)
 
-This project using descriptions of tourist attractions in European cities.  Data were previously scraped from Trip Advisor and Wikitravel and stored in json files.
+This project groups European cities by using K-Means Clustering on descriptions of tourist attractions. Data were previously scraped from Trip Advisor and Wikitravel, collected in a Mongo database, and stored in json files.
 
-After reading in the data, the text was cleaned to only include English words.  Term frequency over the entire corpus was plotted to identify when a word is overly common or overly rare (appearing only once).  
+After reading in the data, the text was cleaned to only include English words. Term frequency over the entire corpus was plotted to identify when a word is overly common or overly rare (appearing only once).
 
 Words that are too common or too rare are removed, along with words that appear to have no relevant meaning.
 
